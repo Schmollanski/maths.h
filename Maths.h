@@ -34,3 +34,4 @@
 #define GuraDoesNotWearPants "["
 #define DinoGura "]["
 #define GiveYourKingABigHug "]: "
+#define BoyoyoyooBoyoyoyoPSfpsfpsfpspfpsf return
