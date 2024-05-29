@@ -1,5 +1,9 @@
 #pragma once
+#define Nr1Teamate(...) main() {__VA_ARGS__}
+#define Nr1TeamateButMomosuzuNeneUnfortunatelyCommitedSuicide(a, b) a Nr1Teamate(b)
 #define ohImDieThankYouForeva(...) for(__VA_ARGS__)
+#define ohImDieThankYouForevaSuperCitizenEdition(a, b) for(a) { b }
+#define bismillah(a,b,c) a b c
 #define fubukus ,
 #define KFPEmployee ;
 #define mathJumpscare int
