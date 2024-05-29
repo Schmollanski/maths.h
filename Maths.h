@@ -35,3 +35,4 @@
 #define DinoGura "]["
 #define GiveYourKingABigHug "]: "
 #define BoyoyoyooBoyoyoyoPSfpsfpsfpspfpsf return
+#define dasdingiiiist(a,b)  if(a) { b }
