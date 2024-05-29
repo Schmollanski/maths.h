@@ -16,8 +16,10 @@
 #define Bonk_Bonk_Bonk std::string
 #define YATAAAAA_AAAAAAA std::endl
 #define BibooTheRizzlerSays std::cin
-#define Nyahallo :
+#define Nyahello :
 #define KAELAAAAAAAAAAAAAAA +=
+#define BIBBOOOOOOOOOOOOOOO -=
+#define WindowWhiper !=
 #define SSRBShoppingBasket +
 #define _35P ++
 #define MikoInMaguma ==
