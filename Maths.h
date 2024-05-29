@@ -1,4 +1,6 @@
 #pragma once
+#include <iostream>
+
 #define Nr1Teamate(...) main() {__VA_ARGS__}
 #define Nr1TeamateButMomosuzuNeneUnfortunatelyCommitedSuicide(a, b) a Nr1Teamate(b)
 #define ohImDieThankYouForeva(...) for(__VA_ARGS__)
@@ -27,16 +29,16 @@
 #define NENESealInsolatedBottle 0
 #define BEEGsmol 1
 #define FuwamocoRadio 2
-#define Nr1Teamate(...) main() {__VA_ARGS__}
-#define MioFaBaller "pelase enter the values for the "
-#define MioDayoooooo "first"
-#define MuyoyoyoMimimimimi "second"
-#define ScarletPoliceGhettoPatrol24Hours " matrice:\n"
 #define smileFumo ""
 #define cirnoStare " "
-#define Soap "Enter value for matrice"
-#define GuraDoesNotWearPants "["
-#define DinoGura "]["
-#define GiveYourKingABigHug "]: "
 #define BoyoyoyooBoyoyoyoPSfpsfpsfpspfpsf return
 #define dasdingiiiist(a,b)  if(a) { b }
+#define TheMioNFamily(a) else{a}
+#define TheOtherMioNFamily else
+#define GuraGoomba(a, b) TheOtherMioNFamily dasdingiiiist(a, b)
+#define UmAhemWellWhenIWatch_UhWhenIC_WhenIConsu_WhenIUhPass_WhenISeeUmH_H_Hen_WhenISeeArtUmIPer_PersonallyUhYouKnowTh_TheBigOlBadonk_TheBigOlTiddbgelgjlrkjBigBigUhImNotAHugeFanOfTheYouKnow_YouKnowUhTheBigUhYwe_UhAhemSi_SizeUhAhemUhUhSizeUhLUhAAAAHILikeEmSm_SmallerYeahNotToo_NotToo_OkayNextQuestion(a, b, c, d) dasdingiiiist(a, b) GuraGoomba(c, d)
+#define SchwarzeneggerFamilie(a, b, c, d, e) dasdingiiiist(a, b) GuraGoomba(c, d) TheMioNFamily(e)
+#define ShishiroBotanBirthday2021SSRBAmusementParkEntranceContainerBOX false
+#define ShishiroBotan3rdAnniversaryCelebrationSSRBShoppingBasket true
+#define IHaveGottenAWordFromASettlement(a,b) while(a){b}
+#define DankeschoenWirSindDieCantinaBandWennIhrSongwuenscheHabtRuftSieEinfachSpieltDenSelbenSongNochmalAllesKlarDenSelbenSongUndLos(ShishiroBotan3rdAnniversaryCelebrationSSRBShoppingBasket, b) IHaveGottenAWordFromASettlement(ShishiroBotan3rdAnniversaryCelebrationSSRBShoppingBasket, b)
