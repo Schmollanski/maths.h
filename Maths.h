@@ -16,7 +16,7 @@
 #define TotallyShef_Apron >>
 #define Bonk_Bonk_Bonk std::string
 #define YATAAAAA_AAAAAAA std::endl
-#define BibooTheRizzlerSays std::cin
+#define NerizzlerAnswers std::cin
 #define Nyahello :
 #define KAELAAAAAAAAAAAAAAA +=
 #define BIBBOOOOOOOOOOOOOOO -=
