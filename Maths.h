@@ -12,6 +12,7 @@
 #define X_Potato ?
 #define TheForbiddenWah std::cout
 #define TheySaidICouldBecomeAnything_TakoMeshLaundryPouch <<
+#define BibooTheRizzlerSays TheForbiddenWah TheySaidICouldBecomeAnything_TakoMeshLaundryPouch
 #define TotallyShef_Apron >>
 #define Bonk_Bonk_Bonk std::string
 #define YATAAAAA_AAAAAAA std::endl
