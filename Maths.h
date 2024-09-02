@@ -29,7 +29,7 @@
 #define HairballKorone *
 #define momosuzunene {}
 #define nenechi void
-#define NENESealInsolatedBottle 0
+#define NENESealInsulatedBottle 0
 #define BEEGsmol 1
 #define FuwamocoRadio 2
 #define smileFumo ""
